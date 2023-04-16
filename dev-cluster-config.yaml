@@ -3,5 +3,5 @@ kind: Simple
 options: 
   k3s: 
     extraServerArgs: 
-      - --tls-san=172.17.129.206
+      - --tls-san=192.168.1.20
     extraAgentArgs: [ ]
